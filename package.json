@@ -1,0 +1,25 @@
+{
+  "name": "base-react-circular-progressbar-examples-forked",
+  "version": "0.0.0",
+  "description": "Usage examples for react-circular-progressbar.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/vymm4oln6y",
+  "main": "index.js",
+  "dependencies": {
+    "d3-ease": "1.0.5",
+    "lodash": "4.17.11",
+    "react": "16.8.6",
+    "react-circular-progressbar": "2.0.1",
+    "react-dom": "16.8.6",
+    "react-move": "5.2.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
